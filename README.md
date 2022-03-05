@@ -8,16 +8,16 @@ ActiveGantt is a Gantt chart component for a variety of Microsoft programming to
 
 ActiveGantt is Available as:
 
-A Visual Basic ActiveX control (ActiveGanttVB)
-An MFC C++ ActiveX control (ActiveGanttVC)
-A windows forms control written in VB.NET (ActiveGanttVBN)
-A windows forms control written in C# (ActiveGanttCSN)
-An ASP.NET web server control written in VB.NET (ActiveGanttVBA)
-An ASP.NET web server control written in C# (ActiveGanttCSA)
-A WPF control written in VB.NET (ActiveGanttVBW)
-A WPF control written in c# (ActiveGanttCSW)
-A Silverlight control written in VB.NET (ActiveGanttVBE)
-A Silverlight control written in C# (ActiveGanttCSE)
-An HTML5/JavaScript/JQuery component (ActiveGanttJQW)
+* A Visual Basic ActiveX control (ActiveGanttVB)
+* An MFC C++ ActiveX control (ActiveGanttVC)
+* A windows forms control written in VB.NET (ActiveGanttVBN)
+* A windows forms control written in C# (ActiveGanttCSN)
+* An ASP.NET web server control written in VB.NET (ActiveGanttVBA)
+* An ASP.NET web server control written in C# (ActiveGanttCSA)
+* A WPF control written in VB.NET (ActiveGanttVBW)
+* A WPF control written in c# (ActiveGanttCSW)
+* A Silverlight control written in VB.NET (ActiveGanttVBE)
+* A Silverlight control written in C# (ActiveGanttCSE)
+* An HTML5/JavaScript/JQuery component (ActiveGanttJQW)
 
 
