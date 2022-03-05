@@ -20,6 +20,6 @@ ActiveGantt is Available as:
 * A Silverlight control written in C# (ActiveGanttCSE)
 * An HTML5/JavaScript/JQuery component (ActiveGanttJQW)
 
-Each port is available under a different github project. The most up to date ports are ActiveGanttVC, ActiveGanttCSN, ActiveGanttCSW and ActiveGanttJQW.
+Each port is available under a different github repository. The most up to date ports are ActiveGanttVC, ActiveGanttCSN, ActiveGanttCSW and ActiveGanttJQW.
 
 
