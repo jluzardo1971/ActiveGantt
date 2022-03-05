@@ -8,7 +8,7 @@ ActiveGantt is a Gantt chart component for a variety of Microsoft programming to
 
 ActiveGantt is Available as:
 
-* A Visual Basic ActiveX control (ActiveGanttVB)
+* A Visual Basic ActiveX control ([ActiveGanttVB](https://github.com/jluzardo1971/ActiveGanttVB))
 * An MFC C++ ActiveX control (ActiveGanttVC)
 * A windows forms control written in VB.NET (ActiveGanttVBN)
 * A windows forms control written in C# (ActiveGanttCSN)
