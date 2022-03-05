@@ -1,6 +1,6 @@
 # ActiveGantt
 
-Since thew product has been discontinued, I have made the ActiveGantt source code freely available under the MIT License.
+Since the product has long been discontinued, I have made the ActiveGantt source code freely available under the MIT License.
 
 ActiveGantt is a Gantt chart component for a variety of Microsoft programming tools and technologies. Add scheduling capabilities to your application with ActiveGantt. 
 
